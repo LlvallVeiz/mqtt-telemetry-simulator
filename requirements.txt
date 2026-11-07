@@ -1,0 +1,3 @@
+# Only needed for --mode mqtt (real broker). Local mode (--mode local,
+# the default) uses nothing outside the Python 3 standard library.
+paho-mqtt>=1.6
