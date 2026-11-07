@@ -1,0 +1,11 @@
+=== session summary ===
+device              : voltread-01
+valid messages      : 120
+invalid messages    : 0
+missing seq numbers : 0
+footsteps (session) : 175
+footsteps (total)   : 175
+energy harvested    : 0.000027 mWh
+mean power          : 0.0008 mW
+max power           : 0.0079 mW
+battery             : 87.00% -> 86.98%

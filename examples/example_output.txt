@@ -1,0 +1,252 @@
+[lst] seq=  1 V=3.99 pct=87.00 steps=   0 (+ 0) P=0.0000 mW E=0.000000 mWh
+[sim] seq=  1 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000000 mWh
+[lst] seq=  2 V=3.99 pct=87.00 steps=   5 (+ 5) P=0.0028 mW E=0.000001 mWh
+[sim] seq=  2 V=3.99 pct=87.00 steps+= 5 P=0.0028 mW E=0.000001 mWh
+[lst] seq=  3 V=3.99 pct=87.00 steps=   5 (+ 0) P=0.0000 mW E=0.000001 mWh
+[sim] seq=  3 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000001 mWh
+[lst] seq=  4 V=3.99 pct=87.00 steps=   7 (+ 2) P=0.0011 mW E=0.000001 mWh
+[sim] seq=  4 V=3.99 pct=87.00 steps+= 2 P=0.0011 mW E=0.000001 mWh
+[lst] seq=  5 V=3.99 pct=87.00 steps=   7 (+ 0) P=0.0000 mW E=0.000001 mWh
+[sim] seq=  5 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000001 mWh
+[lst] seq=  6 V=3.99 pct=87.00 steps=   7 (+ 0) P=0.0000 mW E=0.000001 mWh
+[sim] seq=  6 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000001 mWh
+[lst] seq=  7 V=3.99 pct=87.00 steps=  14 (+ 7) P=0.0040 mW E=0.000002 mWh
+[sim] seq=  7 V=3.99 pct=87.00 steps+= 7 P=0.0040 mW E=0.000002 mWh
+[lst] seq=  8 V=3.99 pct=87.00 steps=  16 (+ 2) P=0.0011 mW E=0.000003 mWh
+[sim] seq=  8 V=3.99 pct=87.00 steps+= 2 P=0.0011 mW E=0.000003 mWh
+[lst] seq=  9 V=3.99 pct=87.00 steps=  16 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq=  9 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 10 V=3.99 pct=87.00 steps=  16 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 10 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 11 V=3.99 pct=87.00 steps=  20 (+ 4) P=0.0023 mW E=0.000003 mWh
+[sim] seq= 11 V=3.99 pct=87.00 steps+= 4 P=0.0023 mW E=0.000003 mWh
+[lst] seq= 12 V=3.99 pct=87.00 steps=  20 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 12 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 13 V=3.99 pct=87.00 steps=  20 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 13 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 14 V=3.99 pct=87.00 steps=  20 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 14 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 15 V=3.99 pct=87.00 steps=  20 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 15 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 16 V=3.99 pct=87.00 steps=  20 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 16 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 17 V=3.99 pct=87.00 steps=  20 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 17 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 18 V=3.99 pct=87.00 steps=  20 (+ 0) P=0.0000 mW E=0.000003 mWh
+[sim] seq= 18 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000003 mWh
+[lst] seq= 19 V=3.99 pct=87.00 steps=  27 (+ 7) P=0.0040 mW E=0.000004 mWh
+[sim] seq= 19 V=3.99 pct=87.00 steps+= 7 P=0.0040 mW E=0.000004 mWh
+[lst] seq= 20 V=3.99 pct=87.00 steps=  27 (+ 0) P=0.0000 mW E=0.000004 mWh
+[sim] seq= 20 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000004 mWh
+[lst] seq= 21 V=3.99 pct=87.00 steps=  40 (+13) P=0.0073 mW E=0.000006 mWh
+[sim] seq= 21 V=3.99 pct=87.00 steps+=13 P=0.0073 mW E=0.000006 mWh
+[lst] seq= 22 V=3.99 pct=87.00 steps=  40 (+ 0) P=0.0000 mW E=0.000006 mWh
+[sim] seq= 22 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000006 mWh
+[lst] seq= 23 V=3.99 pct=87.00 steps=  42 (+ 2) P=0.0011 mW E=0.000007 mWh
+[sim] seq= 23 V=3.99 pct=87.00 steps+= 2 P=0.0011 mW E=0.000007 mWh
+[lst] seq= 24 V=3.99 pct=87.00 steps=  42 (+ 0) P=0.0000 mW E=0.000007 mWh
+[sim] seq= 24 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000007 mWh
+[lst] seq= 25 V=3.99 pct=87.00 steps=  42 (+ 0) P=0.0000 mW E=0.000007 mWh
+[sim] seq= 25 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000007 mWh
+[lst] seq= 26 V=3.99 pct=87.00 steps=  42 (+ 0) P=0.0000 mW E=0.000007 mWh
+[sim] seq= 26 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000007 mWh
+[lst] seq= 27 V=3.99 pct=87.00 steps=  50 (+ 8) P=0.0045 mW E=0.000008 mWh
+[sim] seq= 27 V=3.99 pct=87.00 steps+= 8 P=0.0045 mW E=0.000008 mWh
+[lst] seq= 28 V=3.99 pct=87.00 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 28 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 29 V=3.99 pct=87.00 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 29 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 30 V=3.99 pct=87.00 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 30 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 31 V=3.99 pct=87.00 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 31 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 32 V=3.99 pct=87.00 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 32 V=3.99 pct=87.00 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 33 V=3.99 pct=86.99 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 33 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 34 V=3.99 pct=86.99 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 34 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 35 V=3.99 pct=86.99 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 35 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 36 V=3.99 pct=86.99 steps=  50 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 36 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 37 V=3.99 pct=86.99 steps=  54 (+ 4) P=0.0023 mW E=0.000008 mWh
+[sim] seq= 37 V=3.99 pct=86.99 steps+= 4 P=0.0023 mW E=0.000008 mWh
+[lst] seq= 38 V=3.99 pct=86.99 steps=  54 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 38 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 39 V=3.99 pct=86.99 steps=  54 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 39 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 40 V=3.99 pct=86.99 steps=  54 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 40 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 41 V=3.99 pct=86.99 steps=  54 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 41 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 42 V=3.99 pct=86.99 steps=  54 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 42 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 43 V=3.99 pct=86.99 steps=  54 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 43 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 44 V=3.99 pct=86.99 steps=  54 (+ 0) P=0.0000 mW E=0.000008 mWh
+[sim] seq= 44 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000008 mWh
+[lst] seq= 45 V=3.99 pct=86.99 steps=  60 (+ 6) P=0.0034 mW E=0.000009 mWh
+[sim] seq= 45 V=3.99 pct=86.99 steps+= 6 P=0.0034 mW E=0.000009 mWh
+[lst] seq= 46 V=3.99 pct=86.99 steps=  60 (+ 0) P=0.0000 mW E=0.000009 mWh
+[sim] seq= 46 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000009 mWh
+[lst] seq= 47 V=3.99 pct=86.99 steps=  60 (+ 0) P=0.0000 mW E=0.000009 mWh
+[sim] seq= 47 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000009 mWh
+[lst] seq= 48 V=3.99 pct=86.99 steps=  60 (+ 0) P=0.0000 mW E=0.000009 mWh
+[sim] seq= 48 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000009 mWh
+[lst] seq= 49 V=3.99 pct=86.99 steps=  60 (+ 0) P=0.0000 mW E=0.000009 mWh
+[sim] seq= 49 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000009 mWh
+[lst] seq= 50 V=3.99 pct=86.99 steps=  60 (+ 0) P=0.0000 mW E=0.000009 mWh
+[sim] seq= 50 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000009 mWh
+[lst] seq= 51 V=3.99 pct=86.99 steps=  72 (+12) P=0.0068 mW E=0.000011 mWh
+[sim] seq= 51 V=3.99 pct=86.99 steps+=12 P=0.0068 mW E=0.000011 mWh
+[lst] seq= 52 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 52 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 53 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 53 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 54 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 54 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 55 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 55 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 56 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 56 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 57 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 57 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 58 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 58 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 59 V=3.99 pct=86.99 steps=  72 (+ 0) P=0.0000 mW E=0.000011 mWh
+[sim] seq= 59 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000011 mWh
+[lst] seq= 60 V=3.99 pct=86.99 steps=  86 (+14) P=0.0079 mW E=0.000013 mWh
+[sim] seq= 60 V=3.99 pct=86.99 steps+=14 P=0.0079 mW E=0.000013 mWh
+[lst] seq= 61 V=3.99 pct=86.99 steps=  92 (+ 6) P=0.0034 mW E=0.000014 mWh
+[sim] seq= 61 V=3.99 pct=86.99 steps+= 6 P=0.0034 mW E=0.000014 mWh
+[lst] seq= 62 V=3.99 pct=86.99 steps=  92 (+ 0) P=0.0000 mW E=0.000014 mWh
+[sim] seq= 62 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000014 mWh
+[lst] seq= 63 V=3.99 pct=86.99 steps= 102 (+10) P=0.0056 mW E=0.000016 mWh
+[sim] seq= 63 V=3.99 pct=86.99 steps+=10 P=0.0056 mW E=0.000016 mWh
+[lst] seq= 64 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 64 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 65 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 65 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 66 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 66 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 67 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 67 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 68 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 68 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 69 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 69 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 70 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 70 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 71 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 71 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 72 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 72 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 73 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 73 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 74 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 74 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 75 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 75 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 76 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 76 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 77 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 77 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 78 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 78 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 79 V=3.99 pct=86.99 steps= 102 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 79 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 80 V=3.99 pct=86.99 steps= 103 (+ 1) P=0.0006 mW E=0.000016 mWh
+[sim] seq= 80 V=3.99 pct=86.99 steps+= 1 P=0.0006 mW E=0.000016 mWh
+[lst] seq= 81 V=3.99 pct=86.99 steps= 103 (+ 0) P=0.0000 mW E=0.000016 mWh
+[sim] seq= 81 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000016 mWh
+[lst] seq= 82 V=3.99 pct=86.99 steps= 106 (+ 3) P=0.0017 mW E=0.000017 mWh
+[sim] seq= 82 V=3.99 pct=86.99 steps+= 3 P=0.0017 mW E=0.000017 mWh
+[lst] seq= 83 V=3.99 pct=86.99 steps= 106 (+ 0) P=0.0000 mW E=0.000017 mWh
+[sim] seq= 83 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000017 mWh
+[lst] seq= 84 V=3.99 pct=86.99 steps= 106 (+ 0) P=0.0000 mW E=0.000017 mWh
+[sim] seq= 84 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000017 mWh
+[lst] seq= 85 V=3.99 pct=86.99 steps= 113 (+ 7) P=0.0040 mW E=0.000018 mWh
+[sim] seq= 85 V=3.99 pct=86.99 steps+= 7 P=0.0040 mW E=0.000018 mWh
+[lst] seq= 86 V=3.99 pct=86.99 steps= 113 (+ 0) P=0.0000 mW E=0.000018 mWh
+[sim] seq= 86 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000018 mWh
+[lst] seq= 87 V=3.99 pct=86.99 steps= 113 (+ 0) P=0.0000 mW E=0.000018 mWh
+[sim] seq= 87 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000018 mWh
+[lst] seq= 88 V=3.99 pct=86.99 steps= 113 (+ 0) P=0.0000 mW E=0.000018 mWh
+[sim] seq= 88 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000018 mWh
+[lst] seq= 89 V=3.99 pct=86.99 steps= 113 (+ 0) P=0.0000 mW E=0.000018 mWh
+[sim] seq= 89 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000018 mWh
+[lst] seq= 90 V=3.99 pct=86.99 steps= 113 (+ 0) P=0.0000 mW E=0.000018 mWh
+[sim] seq= 90 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000018 mWh
+[lst] seq= 91 V=3.99 pct=86.99 steps= 113 (+ 0) P=0.0000 mW E=0.000018 mWh
+[sim] seq= 91 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000018 mWh
+[lst] seq= 92 V=3.99 pct=86.99 steps= 122 (+ 9) P=0.0051 mW E=0.000019 mWh
+[sim] seq= 92 V=3.99 pct=86.99 steps+= 9 P=0.0051 mW E=0.000019 mWh
+[lst] seq= 93 V=3.99 pct=86.99 steps= 122 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq= 93 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq= 94 V=3.99 pct=86.99 steps= 122 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq= 94 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq= 95 V=3.99 pct=86.99 steps= 122 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq= 95 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq= 96 V=3.99 pct=86.99 steps= 122 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq= 96 V=3.99 pct=86.99 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq= 97 V=3.99 pct=86.99 steps= 123 (+ 1) P=0.0006 mW E=0.000019 mWh
+[sim] seq= 97 V=3.99 pct=86.99 steps+= 1 P=0.0006 mW E=0.000019 mWh
+[lst] seq= 98 V=3.99 pct=86.98 steps= 123 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq= 98 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq= 99 V=3.99 pct=86.98 steps= 123 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq= 99 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq=100 V=3.99 pct=86.98 steps= 123 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq=100 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq=101 V=3.99 pct=86.98 steps= 123 (+ 0) P=0.0000 mW E=0.000019 mWh
+[sim] seq=101 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000019 mWh
+[lst] seq=102 V=3.99 pct=86.98 steps= 125 (+ 2) P=0.0011 mW E=0.000020 mWh
+[sim] seq=102 V=3.99 pct=86.98 steps+= 2 P=0.0011 mW E=0.000020 mWh
+[lst] seq=103 V=3.99 pct=86.98 steps= 125 (+ 0) P=0.0000 mW E=0.000020 mWh
+[sim] seq=103 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000020 mWh
+[lst] seq=104 V=3.99 pct=86.98 steps= 125 (+ 0) P=0.0000 mW E=0.000020 mWh
+[sim] seq=104 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000020 mWh
+[lst] seq=105 V=3.99 pct=86.98 steps= 125 (+ 0) P=0.0000 mW E=0.000020 mWh
+[sim] seq=105 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000020 mWh
+[lst] seq=106 V=3.99 pct=86.98 steps= 125 (+ 0) P=0.0000 mW E=0.000020 mWh
+[sim] seq=106 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000020 mWh
+[lst] seq=107 V=3.99 pct=86.98 steps= 138 (+13) P=0.0073 mW E=0.000022 mWh
+[sim] seq=107 V=3.99 pct=86.98 steps+=13 P=0.0073 mW E=0.000022 mWh
+[lst] seq=108 V=3.99 pct=86.98 steps= 151 (+13) P=0.0073 mW E=0.000024 mWh
+[sim] seq=108 V=3.99 pct=86.98 steps+=13 P=0.0073 mW E=0.000024 mWh
+[lst] seq=109 V=3.99 pct=86.98 steps= 151 (+ 0) P=0.0000 mW E=0.000024 mWh
+[sim] seq=109 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000024 mWh
+[lst] seq=110 V=3.99 pct=86.98 steps= 151 (+ 0) P=0.0000 mW E=0.000024 mWh
+[sim] seq=110 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000024 mWh
+[lst] seq=111 V=3.99 pct=86.98 steps= 151 (+ 0) P=0.0000 mW E=0.000024 mWh
+[sim] seq=111 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000024 mWh
+[lst] seq=112 V=3.99 pct=86.98 steps= 151 (+ 0) P=0.0000 mW E=0.000024 mWh
+[sim] seq=112 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000024 mWh
+[lst] seq=113 V=3.99 pct=86.98 steps= 157 (+ 6) P=0.0034 mW E=0.000025 mWh
+[sim] seq=113 V=3.99 pct=86.98 steps+= 6 P=0.0034 mW E=0.000025 mWh
+[lst] seq=114 V=3.99 pct=86.98 steps= 157 (+ 0) P=0.0000 mW E=0.000025 mWh
+[sim] seq=114 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000025 mWh
+[lst] seq=115 V=3.99 pct=86.98 steps= 157 (+ 0) P=0.0000 mW E=0.000025 mWh
+[sim] seq=115 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000025 mWh
+[lst] seq=116 V=3.99 pct=86.98 steps= 157 (+ 0) P=0.0000 mW E=0.000025 mWh
+[sim] seq=116 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000025 mWh
+[lst] seq=117 V=3.99 pct=86.98 steps= 167 (+10) P=0.0056 mW E=0.000026 mWh
+[sim] seq=117 V=3.99 pct=86.98 steps+=10 P=0.0056 mW E=0.000026 mWh
+[lst] seq=118 V=3.99 pct=86.98 steps= 167 (+ 0) P=0.0000 mW E=0.000026 mWh
+[sim] seq=118 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000026 mWh
+[lst] seq=119 V=3.99 pct=86.98 steps= 175 (+ 8) P=0.0045 mW E=0.000027 mWh
+[sim] seq=119 V=3.99 pct=86.98 steps+= 8 P=0.0045 mW E=0.000027 mWh
+[lst] seq=120 V=3.99 pct=86.98 steps= 175 (+ 0) P=0.0000 mW E=0.000027 mWh
+[sim] seq=120 V=3.99 pct=86.98 steps+= 0 P=0.0000 mW E=0.000027 mWh
+=== session summary ===
+device              : voltread-01
+valid messages      : 120
+invalid messages    : 0
+missing seq numbers : 0
+footsteps (session) : 175
+footsteps (total)   : 175
+energy harvested    : 0.000027 mWh
+mean power          : 0.0008 mW
+max power           : 0.0079 mW
+battery             : 87.00% -> 86.98%
+[lst] CSV written to examples/session.csv
